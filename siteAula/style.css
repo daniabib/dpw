@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body {
+    background-color: black;
+    color: white;
+
+}
+
+h1 {
+    font-family: 'Righteous';
+    font-size: 6em;
+    color: white;
+    text-align: center;
+}
+
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background:#999;
+ }
